@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleSearch", "TitleSearch.csproj", "{98F383E3-BFDC-4DE0-8D2C-F8C0F92AE06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F383E3-BFDC-4DE0-8D2C-F8C0F92AE06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F383E3-BFDC-4DE0-8D2C-F8C0F92AE06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F383E3-BFDC-4DE0-8D2C-F8C0F92AE06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F383E3-BFDC-4DE0-8D2C-F8C0F92AE06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AF1D05-EE55-46FC-B032-C7B5CEA06635}
+	EndGlobalSection
+EndGlobal

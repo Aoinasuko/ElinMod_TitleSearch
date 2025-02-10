@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Title Search</title>
+  <id>bep_titlesearch</id>
+  <tags>QoL</tags>
+  <author>aoi_nasuko</author>
+  <builtin>false</builtin>
+  <loadPriority>745</loadPriority>
+  <version>0.23.83</version>
+  <description>このMODを導入すると以下の機能が追加されます。
+
+1:異名の選択前に特定の文字列が必ず候補内に現れるように検索を行うことが出来ます。
+ただし、候補に無い文字列は出現しません。しばらく検索を行っても候補の文字列が現れなかった場合はランダムで検索が行われます。
+
+2:ファクションボードに新しく「ファクション名の変更(Search)」行動が追加されます。
+これを選択することでファクション名を決める前に文字列検索を行うことが出来ます。
+ただし、候補に無い文字列は出現しません。しばらく検索を行っても候補の文字列が現れなかった場合はランダムで検索が行われます。
+
+3:キャラクター作成時の経歴の横のリロールボタンを押すと、生まれた日・身長・体重・父親と母親の経歴を直接指定、および検索することが出来るようになります。
+生まれた日・身長・体重は不正な値を入れると無視されます。
+
+The following features will be added by installing this mod.
+
+1:A search can be performed so that a specific string always appears in the candidates before Aka is selected.
+However, if a string does not appear in the candidate list, it will not appear. If a candidate string does not appear after searching for a while, a random search will be performed.
+
+2:A new "Change Faction Name(Search)" action will be added to faction board.
+By selecting this option, you can perform a string search before deciding on a faction name.
+However, if a string does not appear in the candidate list, it will not appear. If a candidate string does not appear after searching for a while, a random search will be performed.
+
+3:The reroll button next to the biography when creating a character allows you to directly specify and search for birth date, height, weight, and father and mother biographies.
+Incorrect values for date of birth, height, and weight will be ignored.
+
+</description>
+</Meta>
