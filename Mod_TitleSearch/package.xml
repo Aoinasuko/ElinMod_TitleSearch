@@ -6,7 +6,7 @@
   <author>aoi_nasuko</author>
   <builtin>false</builtin>
   <loadPriority>745</loadPriority>
-  <version>0.23.83</version>
+  <version>0.23.187</version>
   <description>このMODを導入すると以下の機能が追加されます。
 
 1:異名の選択前に特定の文字列が必ず候補内に現れるように検索を行うことが出来ます。

@@ -35,6 +35,7 @@ namespace Mod_TitleSearch
         public static bool Prefix(ref UICharaMaker __instance)
         {
             UICharaMaker instance = __instance;
+			Chara chara = __instance.chara;
             Biography bio = __instance.chara.bio;
             string desc = "";
             // 父親元ID
@@ -89,7 +90,7 @@ namespace Mod_TitleSearch
                                 {
                                     if (ValCheck(text_age, 0, out int retbirthAge))
                                     {
-                                        bio.age = retbirthAge;
+                                        bio.SetAge(chara, retbirthAge);
                                         instance.Refresh();
                                     }
                                     if (Lang.isJP)
